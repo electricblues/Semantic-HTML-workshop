@@ -1,0 +1,14 @@
+body {
+  width: 50rem;
+  margin: auto;
+  text-align: center;
+}
+
+.form-block {
+  width: 10rem;
+  margin: auto;
+}
+.form-block * {
+  text-align: left;
+  display: block;
+}
